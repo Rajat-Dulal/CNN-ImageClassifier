@@ -8,7 +8,7 @@ training_size = 0.8
 
 validation_size = 0.2
 
-Optimizer used: Adam (See "Results" and "Comparision_optim" for comparision between multiple optimizers)
+Optimizer used: Adam (See "Results" and "Comparisons_optim" for comparision between multiple optimizers)
 
 lr: 0.0001
 
